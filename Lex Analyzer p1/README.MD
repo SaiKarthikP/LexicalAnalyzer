@@ -5,7 +5,7 @@ Date: January 30, 2018
 
 Overview
 ----
-A lexical analyzer for a simple object-oriented programming language called Toy built using jflex and java. This program translates any input Toy program into a sequence of tokens, and creates a symbol table using the trie structure for all keywords and user-defined identifiers.
+A lexical and syntax analyzer for a simple object-oriented programming language called Toy build using jflex and CUP (java). This program translates any input Toy program into a sequence of tokens, and creates a symbol table using the trie structure for all keywords and user-defined identifiers.
 
 How to compile and run program
 ----
