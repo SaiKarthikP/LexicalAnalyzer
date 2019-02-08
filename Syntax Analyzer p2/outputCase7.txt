@@ -1,0 +1,4 @@
+a[shift]
+[[shift]
+3
+[reject]

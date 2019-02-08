@@ -1,0 +1,4 @@
+int[shift]
+i[reduce 114][reduce 108][shift]
+=
+[reject]

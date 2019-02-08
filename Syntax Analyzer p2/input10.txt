@@ -1,0 +1,7 @@
+class x extends y implements z,a,b {
+   // in class 
+   boolean b;
+   userDefinedClassType f(){}
+   double d;
+   string g(){}
+}

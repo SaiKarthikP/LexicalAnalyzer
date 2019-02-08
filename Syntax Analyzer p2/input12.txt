@@ -1,0 +1,5 @@
+//Class Decl
+class x extends y implements z {}
+class x implements z {}
+class x extends y {}
+class x extends y implements z,a,b {}

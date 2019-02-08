@@ -1,0 +1,22 @@
+void f (double x, double y) {
+   int a;  //Variable Decl
+   a = 5; //Expr
+
+   { //StmtBlock
+     int a;
+     break;
+   }
+
+   //ForStmt
+   for ( ; X = 5; ) 
+
+   //IfSmt
+   if ( x==5 ) 
+     if (y == 4)
+        println( a = x, x +5, 5 != 6, newarray ( 5, int ) );
+     else
+        println(s);
+
+   b = a < b == c ;
+   return; 
+}

@@ -1,0 +1,5 @@
+void E(double x, double y) { 
+   a[] b ;
+   a[6][4.5][b] = result = x + y + z;
+   a[3] = 5;
+}
